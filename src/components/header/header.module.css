@@ -1,0 +1,88 @@
+.Header {
+  width: 100%;
+  height: 85px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+  
+.Crowdme {
+  font-size: 31px;
+  font-family: "Nunito";
+  color: rgb(109, 110, 112);
+  padding-left: 10px;
+  align-items: center;
+  display: flex;
+}
+
+.Login_case {
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 1px;
+  background-color: rgb(173, 209, 54);
+  opacity: 0.812;
+  width: 100px;
+  height: 38px;
+  font-size: 13px;
+  font-family: "OpenSans";
+  color: rgba(255, 255, 255, 0.812);
+  line-height: 3;
+  margin-right: 140px;
+}
+
+.Nav_list {
+  font-size: 13px;
+  font-family: "OpenSans";
+  color: rgba(102, 102, 102, 0.671);
+  width: 520px;
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 0px;
+}
+
+.Me {
+  color: rgb(89, 89, 89);
+}
+
+.Rounded2 {
+  background-color: rgb(143, 198, 61);
+  width: 7px;
+  height: 36px;
+  border-radius: 7px;
+  margin: 0 6px 0 6px;
+}
+
+.Rounded12 {
+  background-color: rgb(143, 198, 61);
+  width: 7px;
+  height: 20px;
+  border-radius: 7px;
+}
+
+.Rounded3 {
+  background-color: rgb(143, 198, 61);
+  width: 7px;
+  height: 29px;
+  border-radius: 7px;
+}
+
+.Ellipse {
+  border-radius: 50%;
+  background-color: rgb(143, 198, 61);
+  width: 7px;
+  height: 7px;
+  margin-bottom: 2px;
+}
+
+.Logo_rounded {
+  display: flex;
+  align-items: flex-end;
+  padding-bottom: 13px;
+}
+
+.Logo {
+  display: flex;
+  margin-left: 135px;
+}
