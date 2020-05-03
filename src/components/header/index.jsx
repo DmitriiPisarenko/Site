@@ -27,9 +27,9 @@ export default function Header () {
         <li>BLOG</li>
         <li>FIND OUT MORE</li>
     </ul>
-    <div className={styles.Login_case}>
+    <button className={styles.Login_case}>
       LOGIN
-    </div>
+    </button>
   
   </header>;
 }
