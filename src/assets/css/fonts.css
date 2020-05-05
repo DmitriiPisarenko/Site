@@ -1,0 +1,11 @@
+@font-face {
+  font-family: "OpenSans";
+  font-weight: normal;
+  font-style: normal;
+  src: local("OpenSans"), url("../fonts/OpenSans-Regular.ttf") format("ttf");     
+}
+
+@font-face {
+  font-family: "Nunito";
+  src: url("../fonts/Nunito-Regular.ttf") format("ttf");     
+}

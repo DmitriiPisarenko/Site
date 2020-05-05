@@ -1,0 +1,48 @@
+.Banner  {
+  background-image: url(../../assets/images/banner.png);
+  height: 570px;
+  background-size: cover;
+  margin-top: 85px;
+}
+
+.Become_a_Member {
+  font-size: 19px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  text-align: center;
+  border-radius: 10px;
+  background-color: rgb(153, 197, 10);
+  width: 255px;
+  height: 75px;
+  box-shadow: 0px 4px 2px 0px rgba(0, 0, 0, 0.54);
+  margin-top: 60px;
+  border-style: none;
+}
+
+.Intellectual_Property {
+  font-size: 50px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  padding-top: 170px;
+  margin: 0;
+}
+
+.Banana {
+  font-size: 35px;
+  font-family: "OpenSans";
+  color: rgb(255, 255, 255);
+  margin: 0;
+  padding-top: 35px;
+}
+
+.Arrows {
+  padding-top: 100px;
+  max-width: 1000px;
+  margin: auto;
+  text-align: right;
+}
+
+.Arrow_left {
+  transform: rotate(180deg);
+  margin-right: 32px;
+}
